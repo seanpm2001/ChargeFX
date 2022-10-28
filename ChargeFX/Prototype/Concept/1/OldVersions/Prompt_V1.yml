@@ -1,0 +1,6 @@
+# Sound effects prompt
+title: "Sound effects (ChargeFX)"
+subtitle: "Choose a sound effect for this event:"
+$sfxList()
+end: false
+# File version: 1 (2022, Thursday, October 27th at 5:25 pm PST)
